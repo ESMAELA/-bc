@@ -480,7 +480,7 @@ message.guild.members.filter(m => m.presence.status === 'online').forEach(m => {
 
 
 
-const devs = ['522045992543977484' , '' , ''];
+const devs = ['298823765851111425' , '609770616480071681' , ''];
 
 const adminprefix = "-";
 
